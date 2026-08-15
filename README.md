@@ -144,7 +144,7 @@ Watch this short video to understand **what the bot is**, **why it's useful**, *
 
 ---
 
-## 🎮 Commands
+## 🤖 Commands
 
 <details>
 <summary><b>👤 User Commands</b></summary>
