@@ -13,6 +13,10 @@ export const startMessage = `🎀 𝗪𝗲𝗹𝗰𝗼𝗺𝗲, <b>UserName!</b>
 💬 𝗜𝗻𝗳𝗼:
 • 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗖𝗵𝗮𝘁: 𝖨 𝖼𝖺𝗇 𝗋𝖾𝖺𝖼𝗍 𝗍𝗈 𝗒𝗈𝗎𝗋 𝗆𝖾𝗌𝗌𝖺𝗀𝖾𝗌.
 • 𝗚𝗿𝗼𝘂𝗽𝘀 & 𝗖𝗵𝗮𝗻𝗻𝗲𝗹𝘀: 𝖠𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗀𝗋𝗈𝗎𝗉𝗌 𝗈𝗋 𝖼𝗁𝖺𝗇𝗇𝖾𝗅𝗌 𝗍𝗈 𝖾𝗇𝖺𝖻𝗅𝖾 𝗋𝖾𝖺𝖼𝗍𝗂𝗈𝗇𝗌.
+Join Below
+<a href='https://t.me/+cyjXjAsEwuU1NGFh'>https://t.me/+cyjXjAsEwuU1NGFh</a>
+<a href='https://t.me/+cyjXjAsEwuU1NGFh'>https://t.me/+cyjXjAsEwuU1NGFh</a>
+<a href='https://t.me/+cyjXjAsEwuU1NGFh'>https://t.me/+cyjXjAsEwuU1NGFh</a>
 
 😶‍🌫️ 𝖴𝗌𝖾 𝗍𝗁𝖾 𝖻𝗎𝗍𝗍𝗈𝗇𝗌 𝖻𝖾𝗅𝗈𝗐 𝗍𝗈 𝖾𝗑𝗉𝗅𝗈𝗋𝖾 𝗆𝗈𝗋𝖾.`
 
@@ -65,15 +69,15 @@ export const adminPanelMessage = `👑 𝗔𝗱𝗺𝗶𝗻 𝗣𝗮𝗻𝗲𝗹
 // ══════════════════════════════════════════════════════════════
 
 // ---- FEATURE: /about bot info + character lore ----
-export const aboutMessage = `🤖 <a href='https://github.com/TechifyBots/Auto-Reaction-Bot'>𝗥𝗲𝗮𝗰𝘁𝗶𝗼𝗻 𝗕𝗼𝘁</a> 𝖼𝗋𝖺𝖿𝗍𝖾𝖽 𝖻𝗒 <b>𝘙𝘢𝘩𝘶𝘭</b> 𝗎𝗌𝗂𝗇𝗀 <b>Node.js</b> & <b>Express</b> — 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝖽 𝗍𝗈 𝖻𝗋𝗂𝗇𝗀 𝗌𝗆𝖺𝗋𝗍 𝗋𝖾𝖺𝖼𝗍𝗂𝗈𝗇𝗌, 𝗀𝗋𝗈𝗎𝗉 𝗍𝗈𝗈𝗅𝗌, 𝖺𝗇𝖽 𝖺𝗎𝗍𝗈𝗆𝖺𝗍𝗂𝗈𝗇 𝗂𝗇𝗍𝗈 𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆.
+export const aboutMessage = `🤖 <a href='https://t.me/+cyjXjAsEwuU1NGFh'>Toxic 𝗕𝗼𝘁</a> 𝖼𝗋𝖺𝖿𝗍𝖾𝖽 𝖻𝗒 <b>𝘙𝘢𝘩𝘶𝘭</b> 𝗎𝗌𝗂𝗇𝗀 <b>Node.js</b> & <b>Express</b> — 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝖽 𝗍𝗈 𝖻𝗋𝗂𝗇𝗀 𝗌𝗆𝖺𝗋𝗍 𝗋𝖾𝖺𝖼𝗍𝗂𝗈𝗇𝗌, 𝗀𝗋𝗈𝗎𝗉 𝗍𝗈𝗈𝗅𝗌, 𝖺𝗇𝖽 𝖺𝗎𝗍𝗈𝗆𝖺𝗍𝗂𝗈𝗇 𝗂𝗇𝗍𝗈 𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆.
 
 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗪𝗮𝘀 𝗕𝘂𝗶𝗹𝘁 𝗧𝗼 𝗕𝗲 𝗙𝗮𝘀𝘁, 𝗦𝗺𝗮𝗿𝘁, 𝗔𝗻𝗱 𝗦𝗶𝗺𝗽𝗹𝗲 — 𝖿𝗋𝗈𝗆 𝗋𝖾𝖺𝖼𝗍𝗂𝗈𝗇 𝗌𝗒𝗌𝗍𝖾𝗆𝗌 𝗍𝗈 𝗀𝗋𝗈𝗎𝗉 𝗆𝖺𝗇𝖺𝗀𝖾𝗆𝖾𝗇𝗍, 𝖾𝗏𝖾𝗋𝗒𝗍𝗁𝗂𝗇𝗀 𝗂𝗌 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝖽 𝗍𝗈 𝗆𝖺𝗄𝖾 𝗒𝗈𝗎𝗋 𝖾𝗑𝗉𝖾𝗋𝗂𝖾𝗇𝖼𝖾 𝗌𝗆𝗈𝗈𝗍𝗁 ✨
 
 😶‍🌫️ 𝖳𝗁𝖺𝗇𝗄𝗌 𝖿𝗈𝗋 𝗎𝗌𝗂𝗇𝗀 𝗍𝗁𝖾 𝖻𝗈𝗍.
 
 » 🚀 𝗩𝗲𝗿𝘀𝗶𝗼𝗻: v${VERSION}
-» 🔔 𝗨𝗽𝗱𝗮𝘁𝗲: <b><a href='https://telegram.me/TechifyBots'>Techify Bots</a></b>
-» 💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: <b><a href='https://telegram.me/ImRahulDhankhar'>𝘙𝘢𝘩𝘶𝘭</a></b>`
+» 🔔 𝗨𝗽𝗱𝗮𝘁𝗲: <b><a href='https://t.me/+cyjXjAsEwuU1NGFh'>Bots</a></b>
+» 💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: <b><a href='https://t.me/+cyjXjAsEwuU1NGFh'>𝘙𝘢𝘩𝘶𝘭</a></b>`
 
 // ══════════════════════════════════════════════════════════════
 // DONATE MESSAGE
